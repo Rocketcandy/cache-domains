@@ -131,6 +131,11 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
+    },
+    {
+      "name": "LanParty",
+      "description": "CDN for LanParty",
+      "domain_files": ["LanParty.txt"]
     }
   ]
 }
