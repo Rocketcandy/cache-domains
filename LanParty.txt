@@ -1,1 +1,1 @@
-content.djaapt.com
+assets.djaapt.com
